@@ -1,4 +1,7 @@
 <html>
+	<head>
+		criação de head
+	</head>
 	<body>
 		Testando o Git!!
 	</body>
