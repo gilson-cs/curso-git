@@ -1,6 +1,6 @@
 <html>
 	<head>
-		criação de head - 2 alteracao em desenvolvimento
+		criação de head - terceira alteração em master
 	</head>
 	<body>
 		Testando o Git!!
