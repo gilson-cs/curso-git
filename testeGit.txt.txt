@@ -1,8 +1,8 @@
 <html>
 	<head>
-		criação de head - teste rebase 1
+		criação de head - alterando a master
 	</head>
 	<body>
-		Testando o Git!!
+		@copyright
 	</body>
 </html>
